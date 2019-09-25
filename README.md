@@ -12,7 +12,7 @@ Wenn ein Schüler mehr als einen Tisch benötigt, einfach die gewünschten Tisch
 |      02      | Hofer Daniel; Lang Christina | 5AHIF  | 2; 4                         |
 |      03      | Katrin Haslinger      | 5AHIF  | 10                           |
 |      04      | Lange Samuel          | 5AHIF  | 9                            |
-|      05      |                       |        |                              |
+|      05      | Seyer Tobias          | 4AFIT  | 6                            |
 |      06      | René Stadler          | 5BHIF  | 10                           |
 |      07      |                       |        |                              |
 |      08      |                       |        |                              |
